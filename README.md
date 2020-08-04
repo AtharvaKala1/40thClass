@@ -1,1 +1,1 @@
-# 40thClass
+# C-40CLASS
